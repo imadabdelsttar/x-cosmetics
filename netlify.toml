@@ -1,7 +1,7 @@
   [build]
   command = "npm run build"
   publish = "build/client"
-  NODE_VERSION = "20"
+  NODE_VERSION = "18"
 
 [functions]
   directory = "build/server"
